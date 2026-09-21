@@ -393,7 +393,7 @@ AI-Phishing-Email-Analyzer/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Phishing-Email-Analyzer.git
+git clone https://github.com/gauravi19-hash/AI-Phishing-Email-Analyzer.git
 ```
 
 Move into the project:
@@ -626,7 +626,12 @@ The project is designed around a simplified SOC analyst workflow:
             ↓
 13. Review recommended response actions
 ```
-
+##screenshots/
+├── dashboard.png
+├── ai-assessment.png
+├── header-analysis.png
+├── url-analysis.png
+└── mitre-analysis.png
 ---
 
 # 🛡️ Security Considerations
