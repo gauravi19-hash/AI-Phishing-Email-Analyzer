@@ -1,0 +1,23 @@
+From: Microsoft Security <support@microsoft.com>
+To: analyst@example.com
+Subject: Urgent Account Verification Required
+Date: Sun, 20 Sep 2026 10:00:00 +0530
+Reply-To: security-alert@evil-example.com
+Return-Path: <security-alert@evil-example.com>
+Message-ID: <phishing-test-001@evil-example.com>
+MIME-Version: 1.0
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=evil-example.com; dkim=none; dmarc=fail header.from=microsoft.com
+Received: from suspicious-host.evil-example.com (185.1.2.3) by mail.example.com;
+        Sun, 20 Sep 2026 10:00:00 +0530
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We detected unusual activity on your account.
+
+Please verify your account immediately:
+
+https://evil-example.com/login
+
+Regards,
+Microsoft Security Team

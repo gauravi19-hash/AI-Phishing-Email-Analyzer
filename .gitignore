@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+investigation_result.json
+uploaded_email.eml
+
+reports/*.json

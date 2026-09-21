@@ -1,0 +1,18 @@
+From: Security Team <security@example.com>
+To: analyst@example.com
+Subject: Security Awareness Test
+Date: Sat, 19 Sep 2026 10:00:00 +0530
+Reply-To: security@example.com
+Return-Path: <security@example.com>
+Message-ID: <test123@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+This is a test security awareness email.
+
+Please review the security documentation.
+
+Regards,
+Security Team

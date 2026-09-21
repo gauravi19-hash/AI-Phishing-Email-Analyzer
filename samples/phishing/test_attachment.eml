@@ -1,0 +1,22 @@
+From: Security Team <security@example.com>
+To: analyst@example.com
+Subject: Security Awareness Attachment Test
+Date: Sun, 20 Sep 2026 10:00:00 +0530
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+
+This is a synthetic security awareness test.
+
+Please review the attached file.
+
+--BOUNDARY123
+Content-Type: text/plain; name="invoice.txt"
+Content-Disposition: attachment; filename="invoice.txt"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIHNhZmUgc3ludGhldGljIHRlc3QgZmlsZS4=
+
+--BOUNDARY123--
